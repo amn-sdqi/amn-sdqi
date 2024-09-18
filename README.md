@@ -1,5 +1,5 @@
 # 💫 About Me:
-Freasher <br>Full stack web developer<br>Created To-Do list API<br>simple Blog Website<br>Online Shoping website using MongoDb ,NodeJs, ExpressJs<br>HTML, CSS, JavaScript<br>BootStrap
+Freasher <br>Full stack web developer<br>Created To-Do list API<br>simple Blog Website<br>Online Shoping website using MongoDb ,NodeJs, ExpressJs,React<br>HTML, CSS, JavaScript<br>BootStrap
 
 
 ## 🌐 Socials:
